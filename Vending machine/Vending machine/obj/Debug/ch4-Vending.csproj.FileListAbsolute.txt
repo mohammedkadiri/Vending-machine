@@ -1,0 +1,5 @@
+c:\users\mohammed\documents\visual studio 2017\Projects\ch4-Vending\ch4-Vending\obj\Debug\ch4-Vending.csprojResolveAssemblyReference.cache
+c:\users\mohammed\documents\visual studio 2017\Projects\ch4-Vending\ch4-Vending\bin\Debug\ch4-Vending.exe
+c:\users\mohammed\documents\visual studio 2017\Projects\ch4-Vending\ch4-Vending\bin\Debug\ch4-Vending.pdb
+c:\users\mohammed\documents\visual studio 2017\Projects\ch4-Vending\ch4-Vending\obj\Debug\ch4-Vending.exe
+c:\users\mohammed\documents\visual studio 2017\Projects\ch4-Vending\ch4-Vending\obj\Debug\ch4-Vending.pdb
